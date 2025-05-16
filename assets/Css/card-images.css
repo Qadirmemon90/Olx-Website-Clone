@@ -1,0 +1,41 @@
+.card i{
+    color: black;
+}
+.job-img {
+    width: 302px;
+    height: 145px;
+    background: url('../Imags/products/jobs/1.webp') center no-repeat;
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.job-img1 {
+    
+    width: 302px;
+    height: 145px;
+    background: url('../Imags/products/jobs/2.webp') center no-repeat;
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.job-img2 {
+    
+    width: 302px;
+    height: 145px;
+    background: url('../Imags/products/jobs/3.webp') center no-repeat;
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.job-img3 {
+    
+    width: 302px;
+    height: 145px;
+    background: url('../Imags/products/jobs//4.webp') center no-repeat;
+    background-size: cover;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
